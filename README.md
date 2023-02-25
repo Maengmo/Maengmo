@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20StroyHouse&desc=by:Maengmo%20&descSize=20&descAlign=80&fontAlign=50&fontSize=80&animation=twinkling)
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Developer&fontAlign=30&fontSize=30&desc=Maengmo's%20StoryHouse%20&descAlign=60&descAlignY=50&theme=radical)
 
 ![Maengmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maengmo&show_icons=true&theme=radical)
 
