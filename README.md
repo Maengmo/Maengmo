@@ -75,6 +75,8 @@
 <div align="center">
     
 ![Maengmo's github stats](https://github-readme-stats.vercel.app/api?username=Maengmo&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcv5424)](https://solved.ac/kcv5424/)
+
     
 </div>
 
