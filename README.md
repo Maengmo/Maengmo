@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20StroyHouse&desc=by:Maengmo%20&descSize=20&descAlign=80&fontAlign=50&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20StoryHouse&desc=by:Maengmo%20&descSize=20&descAlign=80&fontAlign=50&fontSize=80&animation=twinkling)
 
 <br>
 
