@@ -35,6 +35,7 @@
 <p align="center" display="inline-block">
     💡Backend <br>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Ajax-ECD53F?style=for-the-badge&logo=Ajax&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡 Operating System <br>
@@ -53,6 +54,7 @@
      <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
      <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
      <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white">
+     <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </p>
 
 <p align="center">
@@ -63,7 +65,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=Spark&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=Apache&logoColor=white">
 </p>
 
 <p align="center" display="inline-block">
