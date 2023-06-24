@@ -35,7 +35,6 @@
 <p align="center" display="inline-block">
     💡Backend <br>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Ajax-ECD53F?style=for-the-badge&logo=Ajax&logoColor=white">
 </p>
 <p align="center" display="inline-block">
     💡 Operating System <br>
@@ -56,6 +55,7 @@
      <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white">
      <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
     <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+     <img src="https://img.shields.io/badge/Ajax-ECD53F?style=for-the-badge&logo=Ajax&logoColor=white">
 </p>
 
 <p align="center">
