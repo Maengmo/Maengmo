@@ -38,7 +38,7 @@
 </p>
 <p align="center" display="inline-block">
     💡 Operating System <br>
-    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=mac OS IDEA&logoColor=white"> 
+    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=mac&#160;OS IDEA&logoColor=white"> 
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows IDEA&logoColor=white"> 
 </p>
 <p align="center" display="inline-block">
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center" display="inline-block">
-    💡WEP <br>
+    💡WEB <br>
      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
      <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
      <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
