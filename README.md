@@ -38,7 +38,7 @@
 </p>
 <p align="center" display="inline-block">
     💡 Operating System <br>
-    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOs IDEA&logoColor=white"> 
+    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=mac OS IDEA&logoColor=white"> 
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows IDEA&logoColor=white"> 
 </p>
 <p align="center" display="inline-block">
