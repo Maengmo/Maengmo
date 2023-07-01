@@ -71,7 +71,7 @@
 
 <p align="center" display="inline-block">
     💡License <br>
-    - 💻 정보처리기사
+    - 💻 정보처리기사<br>
     - 📊 SQLD
 </p>
 <br>
