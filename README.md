@@ -7,7 +7,7 @@
     <a href="https://maengmo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
     <a href="https://github.com/Maengmo" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <br><br>
-<Strong>📧Email📧</Strong><br>kcv5424@naver.com<br>
+<Strong>📧Email📧</Strong><br>kcv5424@naver.com<br>kcv0508@gmail.com<br>
 
 </p>
 
