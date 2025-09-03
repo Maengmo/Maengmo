@@ -7,7 +7,7 @@
     <a href="mailto:kcv5424@naver.com"><img src="https://img.shields.io/badge/Email-kcv5424@naver.com-blue?style=for-the-badge"/></a>
     <a href="mailto:kcv0508@gmail.com"><img src="https://img.shields.io/badge/Email-kcv0508@gmail.com-blue?style=for-the-badge"/></a>
     <a href="https://github.com/kcv5424"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://www.solved.ac/profile/kcv5424"><img src="https://img.shields.io/badge/Solved.ac-4FC08D?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://solved.ac/profile/kcv5424"><img src="https://img.shields.io/badge/Solved.ac-4FC08D?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
 </p>
 
 <br>
@@ -75,9 +75,9 @@
 
 <br>
 
-<div align="center">
- [![Solved.ac Profile](https://img.shields.io/badge/Solved.ac-kcv5424-4FC08D?style=for-the-badge&logo=LeetCode&logoColor=white)](https://solved.ac/profile/kcv5424)
-</div>
+![Maengmo's github stats](https://github-readme-stats.vercel.app/api?username=Maengmo&show_icons=true) 
+<br><br><br> 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcv5424)](https://solved.ac/kcv5424/)
 
 <br>
 
