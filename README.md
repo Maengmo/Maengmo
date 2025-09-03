@@ -76,9 +76,7 @@
 <br>
 
 <div align="center">
-  ![김대환's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcv5424&show_icons=true&count_private=true&theme=radical)
-  <br><br>
-  [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kcv5424)](https://solved.ac/kcv5424/)
+ [![Solved.ac Profile](https://img.shields.io/badge/Solved.ac-kcv5424-4FC08D?style=for-the-badge&logo=LeetCode&logoColor=white)](https://solved.ac/profile/kcv5424)
 </div>
 
 <br>
